@@ -5,9 +5,10 @@
     border:1px solid rgba(123, 3, 152, 1) ;
   }
   .discovery{
+    font-family: 'Inter';
     text-align: center;
     color:black;
-    font-weight:bolder;
+    font-weight:bold;
     background-color: rgba(245, 233, 64, 1);
     transform: skewX(-20deg);
     margin:18px;

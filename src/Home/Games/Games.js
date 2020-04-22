@@ -28,7 +28,7 @@ class Game extends Component{
       }}>
       <button className="button button2">Learn More</button>
       </Link>
-     <button className="button button1">Play</button>
+     <button className="button button1"><a style={{textDecoration:"none",color:"white"}} href="https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/"> Play</a></button>
     </div>
 
        <div className="card">
@@ -43,7 +43,7 @@ class Game extends Component{
       }}>
      <button className="button button2">Learn More</button>
      </Link>
-     <button className="button button1">Play</button>
+     <button className="button button1"><a style={{textDecoration:"none",color:"white"}} href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"> Play</a></button>
        </div>
       
       <div className="card">
@@ -57,7 +57,7 @@ class Game extends Component{
            }
          }}>
        <button className="button button2">Learn More</button> </Link>
-        <button className="button button1">Play</button>
+        <button className="button button1"><a style={{textDecoration:"none",color:"white"}} href="https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/"> Play</a></button>
        </div>
        
      <div className="card">
@@ -72,7 +72,7 @@ class Game extends Component{
       }}>
      <button className="button button2">Learn More</button>
      </Link>
-     <button className="button button1">Play</button>
+     <button className="button button1"><a style={{textDecoration:"none",color:"white"}} href="https://play.euw.leagueoflegends.com/en_GB"> Play</a></button>
        </div>
           
      <div className="card">
@@ -80,14 +80,14 @@ class Game extends Component{
       <Link to={{
         pathname:'/OVERWATCH',
         state:{
-          video1:"https://www.youtube.com/embed/0uyLRPmmYPk",
-          video2:"https://www.youtube.com/embed/z6lNQVpTBgI",
-          video3:"https://www.youtube.com/embed/TzfQvu98b_o"
+          video1:"https://www.youtube.com/embed/q_lrilSEqOE",
+          video2:"https://www.youtube.com/embed/q_lrilSEqOE",
+          video3:"https://www.youtube.com/embed/IbHkbbdz0-I"
         }
       }}>
      <button className="button button2">Learn More</button>
      </Link>
-     <button className="button button1">Play</button>
+     <button className="button button1"><a style={{textDecoration:"none",color:"white"}} href="https://us.shop.battle.net/en-us/product/overwatch?blzcmp=ow_buy_nav"> Play</a></button>
        </div>
 
        <div className="card">
@@ -95,14 +95,14 @@ class Game extends Component{
       <Link to={{
         pathname:'/SIEGE',
         state:{
-          video1:"https://www.youtube.com/embed/0uyLRPmmYPk",
-          video2:"https://www.youtube.com/embed/z6lNQVpTBgI",
-          video3:"https://www.youtube.com/embed/TzfQvu98b_o"
+          video1:"https://www.youtube.com/embed/VTP3Iadjw38",
+          video2:"https://www.youtube.com/embed/1tdlVFxUqgM",
+          video3:"https://www.youtube.com/embed/R_DyCKnLlyA"
         }
       }}>
      <button className="button button2">Learn More</button>
      </Link>
-     <button className="button button1">Play</button>
+     <button className="button button1"><a style={{textDecoration:"none",color:"white"}} href="https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/"> Play</a></button>
        </div>
        
 </div>

@@ -2,3 +2,19 @@ p{
     color:white;
     font-size:25px;
 }
+h1{
+    text-align:center;
+}
+.paragraph{
+    margin: 0px 140px;
+}
+@media screen and (max-width:768px){
+    .paragraph{
+        margin-left:50px;
+        margin-right:0px;
+    }
+    p{
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+}

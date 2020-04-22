@@ -16,7 +16,7 @@
     color:white;
     font-family: inter;
     font-size:40px;
-    margin-bottom:15px;
+   margin-left:-100px;
 }
  
 @media screen and (max-width: 768px){
@@ -31,7 +31,7 @@
 .video-card{
     border-radius: 5px;
     margin: 15px auto;
-    box-shadow:5px 5px 5px rebeccapurple,-5px -5px 5px rebeccapurple ;
+    box-shadow:2px 2px 2px 2px rebeccapurple,-5px -5px 5px rebeccapurple ;
     flex:0 calc(50%-20px);
 }
 

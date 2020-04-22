@@ -20,7 +20,7 @@ class Events extends Component{
     <img src={DOTA} alt="Avatar" className ="pic"/>
     <div className="content">
       <p className="text">The International Dota 2</p>
-  <a href="https://www.google.com/" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} /></a>
+  <a href="https://egamersworld.com/dota2/event/the-international-2020-NyYFkrIVw" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} /></a>
   
     </div>
   </div>
@@ -30,7 +30,7 @@ class Events extends Component{
     <img src={FORTNITE} alt="Avatar" className="pic"/>
     <div className="content">
       <p className="text">Fortnite World Cup</p>
-    <a href="https://www.google.com/" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} />
+    <a href="https://realsport101.com/fortnite/fortnite-world-cup-2020-start-date-venue-qualification-bugha-times-news-updates-chapter-2/" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} />
       </a>
   
   </div>
@@ -40,7 +40,7 @@ class Events extends Component{
     <img src={Blizzcon} alt="Avatar" className="pic"/>
     <div className="content">
       <p className="text">Blizzcon 2020</p>
-    <a href="https://www.google.com/" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} />
+    <a href="https://blizzardwatch.com/2020/03/31/blizzcon-2020-date/" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} />
       </a>
   
   </div>
@@ -50,7 +50,7 @@ class Events extends Component{
     <img src={LOL} alt="Avatar" className="pic"/>
     <div className="content">
       <p className="text">LOL - World Championship</p>
-    <a href="https://www.google.com/" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} />
+    <a href="https://dotesports.com/league-of-legends/news/how-the-coronavirus-could-affect-msi-and-worlds-2020" target="blank"><FontAwesomeIcon icon={faExternalLinkAlt}  style={fontstyle} />
       </a>
   
   </div>
